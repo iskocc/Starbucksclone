@@ -1,6 +1,9 @@
 # Starbucksclone
-This project includes a copy of Starbucks' website. Made using HTML and CSS. Responsive layouts and animations are used.
-A responsive structure was created using Flexbox and Grid CSS techniques.
+
+* Bu proje Starbucks web sitesinin bir kopyasını içermektedir.
+* Visual Studio Code programı kullanılarak HTML ve CSS kodları yardımıyla yapılmıştır.
+* Bu proje responsive tasarım özelliklerini barındırmaktadır.
+* Flexbox ve Grid CSS teknikleri kullanılmıştır.
 
 
 
